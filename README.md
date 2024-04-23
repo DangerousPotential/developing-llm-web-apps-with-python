@@ -1,7 +1,7 @@
 # Developing LLM Web-Apps with Python
 Here are all the resources you would need in order to get started with Generative AI Development!
 
-Remember to <h2> **save a copy to Drive** </h2> when coding to ensure that your progress is saved!
+Remember to **save a copy to Drive** when coding to ensure that your progress is saved!
 
 ## OpenAI
 * <a href = "https://colab.research.google.com/drive/18tilSatZ8Nkx0S_ZObPHj5C3PpZqpRMm?usp=sharing"> Playing with the OpenAI API (Students) </a>
